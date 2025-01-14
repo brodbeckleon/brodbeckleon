@@ -9,8 +9,6 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
 ## 📊 GitHub Stats
 ![Léon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=dark)
 
-[![Léon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brodbeckleon)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **brodbeckleon/brodbeckleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
