@@ -5,7 +5,7 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
 - **Languages:** Java, Python, C, JavaScript
 - **Interests:** Photography, Algorithms, and Cloud Computing
 
-![Léon's Image](https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?name=Leon)
+![Léon's Image](https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget)
 
 
 ## 📊 GitHub Stats
