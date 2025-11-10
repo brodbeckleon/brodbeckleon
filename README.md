@@ -19,4 +19,14 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
 </picture>
 
 ## 📊 GitHub Stats
-![Léon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=dark)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=dark">
+    <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=light">
+  <img
+    alt="Léon's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=light">
+</picture>
