@@ -5,7 +5,18 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
 - **Languages:** Java, Python, Svelte, TypeScript
 - **Interests:** Photography and Music
 
-![Léon's Image](https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?theme=dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?theme=light">
+  <img
+    alt="Léon's Image"
+    src="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?theme=light">
+</picture>
 
 ## 📊 GitHub Stats
 ![Léon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=dark)
