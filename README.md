@@ -25,8 +25,8 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
     srcset="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=dark">
     <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=light">
+    srcset="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true">
   <img
     alt="Léon's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true&theme=light">
+    src="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true">
 </picture>
