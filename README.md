@@ -27,6 +27,22 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true">
   <img
+    height=200 
+    align="center" 
     alt="Léon's GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=brodbeckleon&show_icons=true">
 </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&theme=dark">
+    <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut">
+  <img
+    height=200
+    align="center" 
+    alt="Léon's Most Used Language Stats"
+    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut)">
+</picture>
+
