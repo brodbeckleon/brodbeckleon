@@ -35,14 +35,14 @@ I'm a Computer Science student and aspiring software engineer. I love coding, so
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&theme=dark">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&theme=dark&hide=css">
     <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&hide=css">
   <img
     height=200
     align="center" 
     alt="Léon's Most Used Language Stats"
-    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut)">
+    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&hide=css)">
 </picture>
 
