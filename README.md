@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Léon!
-I'm a Computer Science student and aspiring software engineer. I love coding, solving challenging problems, and exploring new stuff.
+I'm a software engineer. I love coding, solving challenging problems, and exploring new stuff.
 
 ## 🛠️ Skills & Interests
 - **Languages:** Java, Python, Svelte, TypeScript
-- **Interests:** Photography and Music
+- **Interests:** Biking, Volleyball, Photography and Music
 
 
 <picture>
