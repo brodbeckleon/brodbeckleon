@@ -38,11 +38,11 @@ I'm a software engineer. I love coding, solving challenging problems, and explor
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&theme=dark&hide=css">
     <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&hide=css">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&hide=css,jupyter%20notebook">
   <img
     height=200
     align="center" 
     alt="Léon's Most Used Language Stats"
-    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&hide=css)">
+    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodbeckleon&layout=donut&hide=css,jupyter%20notebook)">
 </picture>
 
