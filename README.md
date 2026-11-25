@@ -43,18 +43,6 @@ Interoperable health data with HL7 FHIR and openEHR. Implementation Guides, FSH/
 </tr>
 </table>
 
-## 🚀 Things I'm building
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Watching the World** | Analysing ~15M images from 10,000+ public webcams: pose estimation, VLM tagging, semantic embeddings | Python · YOLO · Qwen · UMAP |
-| **Gatekeeper** | Three years of one camera, one image per minute, turned into an explorable gigapixel mosaic with per-person heatmaps | InsightFace · pyvips · OpenSeadragon |
-| **Cullmator** | A native macOS photo library and editor, built to stay fast with 30'000+ images | Swift · SwiftUI |
-| **zweitli.ch** | A Swiss second-hand marketplace | Svelte · Go |
-| **FHIR / openEHR** | Implementation Guides and a vaccination domain proof of concept for Swiss health data | FHIR · FSH · SUSHI · openEHR |
-
-<!-- Links ergänzen, z. B. **[Cullmator](https://github.com/brodbeckleon/cullmator)** -->
-
 ## 🛠️ Tech I use
 
 <picture>
