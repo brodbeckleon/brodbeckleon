@@ -2,19 +2,19 @@
 
 # Hi, I'm Léon Brodbeck 👋
 
-**Mechanical & Software Engineer**
+Research assistant at the **ZHAW InIT Visual Computing Lab** in Zurich 🇨🇭, working on frontend design, computer vision and medical computing with HL7 FHIR and openEHR.
 
 <a href="https://brodbeck-leon-shinichi.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+%26+Interface+Design;Visual+Computing+%26+Computer+Vision;Medical+Computing+%7C+FHIR+%26+openEHR" alt="Frontend and interface design, visual computing and computer vision, medical computing with FHIR and openEHR" />
 </a>
 
-Research assistant at the **ZHAW InIT Visual Computing Lab** · MSE Computer Science @ **ZHAW** · Zurich 🇨🇭
+**Mechanical & Software Engineer** · MSE Computer Science @ **ZHAW**
 
 Trained as a polymechanic in CNC machining before moving into software. I still like building things you can see and touch.
 
 [![Website](https://img.shields.io/badge/Website-brodbeck--leon-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://brodbeck-leon-shinichi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léon-shin-ichi-brodbeck-b71786240/)
-[![Mail](https://img.shields.io/badge/Mail-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brodbeckleon@gmail.ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9on-brodbeck-b71786240/)
+[![Mail](https://img.shields.io/badge/Mail-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brodbeckleon@gmail.com)
 
 </div>
 
@@ -63,7 +63,7 @@ Biking 🚴 · Volleyball 🏐 · Photography 📷 · Music 🎧
     srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?theme=dark">
   <source media="(prefers-color-scheme: light)"
     srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?theme=light">
-  <img alt="Léon's Image"
+  <img alt="Photo of Léon Brodbeck off the screen"
     src="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/widget?theme=light">
 </picture>
 
