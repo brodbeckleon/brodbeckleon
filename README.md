@@ -58,14 +58,10 @@ Interoperable health data with HL7 FHIR and openEHR. Implementation Guides, FSH/
 ## 🛠️ Tech I use
 
 <picture>
-  <source media="(max-width: 768px) and (prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=8&theme=light">
-  <source media="(max-width: 768px)"
-    srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=8">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=16&theme=light">
-  <img width="100%" alt="Tech stack"
-    src="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=16">
+  <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=8&theme=light">
+  <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=16&theme=light">
+  <img width="100%" alt="Tech stack" src="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=16">
 </picture>
 
 ## 📸 Off the screen
