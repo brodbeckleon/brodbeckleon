@@ -58,9 +58,9 @@ Interoperable health data with HL7 FHIR and openEHR. Implementation Guides, FSH/
 ## 🛠️ Tech I use
 
 <picture>
-  <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=8&theme=light">
-  <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=16&theme=light">
+  <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=svelte%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cswift%2Cpython%2Cjava%2Cgo%2Cpytorch%2Copencv%2Cdocker%2Clinux%2Cgit%2Cfigma&perline=8&theme=light">
+  <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=svelte%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cswift%2Cpython%2Cjava%2Cgo%2Cpytorch%2Copencv%2Cdocker%2Clinux%2Cgit%2Cfigma&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=svelte%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cswift%2Cpython%2Cjava%2Cgo%2Cpytorch%2Copencv%2Cdocker%2Clinux%2Cgit%2Cfigma&perline=16&theme=light">
   <img width="100%" alt="Tech stack" src="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,swift,python,java,go,pytorch,opencv,docker,linux,git,figma&perline=16">
 </picture>
 
@@ -81,9 +81,9 @@ Biking 🚴 · Volleyball 🏐 · Photography 📷 · Music 🎧
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/stats?theme=dark&hide=css,jupyter%20notebook">
+    srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/stats?theme=dark&hide=css%2Cjupyter%20notebook">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/stats?theme=light&hide=css,jupyter%20notebook">
+    srcset="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/stats?theme=light&hide=css%2Cjupyter%20notebook">
   <img alt="Léon's GitHub Stats" width="100%"
     src="https://github-widgets-git-main-leon-brodbecks-projects.vercel.app/api/stats?theme=light&hide=css,jupyter%20notebook">
 </picture>
