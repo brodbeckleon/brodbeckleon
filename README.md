@@ -2,13 +2,15 @@
 
 # Hi, I'm Léon 👋
 
+**Mechanical & Software Engineer**
+
 <a href="https://brodbeck-leon-shinichi.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+%26+Interface+Design;Visual+Computing+%26+Computer+Vision;Medical+Computing+%7C+FHIR+%26+openEHR" alt="Typing SVG" />
 </a>
 
 Research assistant at the **ZHAW InIT Visual Computing Lab** · MSE Computer Science @ **ZHAW** · Zurich 🇨🇭
 
-From CNC machining to computer science. I still like building things you can see and touch.
+Trained as a polymechanic in CNC machining before moving into software. I still like building things you can see and touch.
 
 [![Website](https://img.shields.io/badge/Website-brodbeck--leon-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://brodbeck-leon-shinichi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-PROFIL)
